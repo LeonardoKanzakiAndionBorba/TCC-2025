@@ -34,18 +34,13 @@
 \
 > QUALITATIVOS: \
 • Plataforma estável, de fácil navegação e responsiva. \
-
 • Conteúdos adequados, com linguagem acessível e abordagem pedagógica alinhada à proposta da Lei 11.645/08. \
-
 • Layout visual claro, coerente com a temática e com foco em acessibilidade. \
 \
 > QUANTITATIVOS: \
 • Disponibilização de conteúdos educativos (vídeos, textos ou planos de aula). \
-
 • Ao menos 100 acessos na primeira semana após o lançamento. \
-
 • 80% dos usuários de teste avaliam a plataforma como “boa” ou “excelente” em pesquisa de satisfação. \
-
 • Redução de dúvidas recorrentes dos professores em relação à temática, identificada por meio de enquetes ou fóruns. \
 \
 > MATRIZ DE RISCOS:
