@@ -42,8 +42,15 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 • 80% dos usuários de teste avaliam a plataforma como “boa” ou “excelente” em pesquisa de satisfação. \
 • Redução de dúvidas recorrentes dos professores em relação à temática, identificada por meio de enquetes ou fóruns. \
 \
-> MATRIZ DE RISCOS:
+> MATRIZ DE RISCOS: \
+\
+## Design de Software
+>
 
+## Organização do Projeto
+>
+
+## Metodologia e Desenvolvimento
 
 
 
