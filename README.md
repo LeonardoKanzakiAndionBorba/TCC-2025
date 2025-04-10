@@ -43,7 +43,7 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 • Redução de dúvidas recorrentes dos professores em relação à temática, identificada por meio de enquetes ou fóruns. \
 \
 > MATRIZ DE RISCOS: \
-\
+
 ## Design de Software
 >
 
