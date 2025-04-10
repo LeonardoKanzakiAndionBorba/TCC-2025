@@ -32,14 +32,14 @@
 
 > CRITÉRIOS DE ACEITE: \
 \
-QUALITATIVOS: \
+> QUALITATIVOS: \
 • Plataforma estável, de fácil navegação e responsiva. \
 
 • Conteúdos adequados, com linguagem acessível e abordagem pedagógica alinhada à proposta da Lei 11.645/08. \
 
 • Layout visual claro, coerente com a temática e com foco em acessibilidade. \
 \
-QUANTITATIVOS: \
+> QUANTITATIVOS: \
 • Disponibilização de conteúdos educativos (vídeos, textos ou planos de aula). \
 
 • Ao menos 100 acessos na primeira semana após o lançamento. \
