@@ -1,5 +1,5 @@
 # Info Cultura
-> Instagram: @neabi_ifpinhais
+> Instagram: @neabi_ifpinhais \
 > Email: neabi.pinhais@ifpr.edu.br
 
 ## Organização da Equipe
@@ -20,6 +20,7 @@
 > Apoio à implementação da Lei 11.645/08, promovendo o ensino da história e cultura afro-brasileira e indígena no ensino fundamental, médio e graduação. Ela busca facilitar o acesso a materiais e práticas pedagógicas que valorizem a diversidade, contribuindo para uma educação mais inclusiva, representativa e antirracista.
 
 ## Escopo do Produto
+> 
 
 
 
