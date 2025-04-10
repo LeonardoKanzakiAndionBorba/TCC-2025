@@ -1,19 +1,14 @@
 # Info Cultura
 > Instagram: @neabi_ifpinhais
-<br/>
 > Email: neabi.pinhais@ifpr.edu.br
 
 ## Organização da Equipe
-> Leonardo Kanzaki: Programação e Conteúdos
-<br/>
-> Raianny Paixão: Programação, Prototipação de Interface e Conteúdos
-<br/>
+> Leonardo Kanzaki: Programação e Conteúdos \
+> Raianny Paixão: Programação, Prototipação de Interface e Conteúdos \
 > Ana Schuenck: Documentação e Pesquisa
 
 ## Data de Criação do Projeto:
-> 05/2024 (WEB)
-<br/>
-> Formalização: 04/2025 (TÓPICOS EM TECNOLOGIA DA INFORMAÇÃO)
+> 05/2024 (WEB) ⮕  Formalização: 04/2025 (TÓPICOS EM TECNOLOGIA DA INFORMAÇÃO)
 
 ## Descrição da Visão Geral DO Projeto
 > A plataforma de educação étnico-racial será um recurso digital na temática afro-brasileira e indígena, promovendo a aplicação da Lei 11.645/08. Oferecerá materiais didáticos, metodologias de ensino, formação continuada e um calendário cultural interativo, com o objetivo de facilitar a inclusão desses conteúdos nas práticas pedagógicas e ampliar o conhecimento sobre a diversidade cultural brasileira.
