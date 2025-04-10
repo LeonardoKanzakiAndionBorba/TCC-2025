@@ -32,11 +32,11 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 • Espaço para contato dos usuários com desenvolvedores. 
 
 > CRITÉRIOS DE ACEITE: \
-> QUALITATIVOS: \
+> Qualitativos: \
 • Plataforma estável, de fácil navegação e responsiva. \
 • Conteúdos adequados, com linguagem acessível e abordagem pedagógica alinhada à proposta da Lei 11.645/08. \
 • Layout visual claro, coerente com a temática e com foco em acessibilidade. \
-> QUANTITATIVOS: \
+> Quantitativos: \
 • Disponibilização de conteúdos educativos (vídeos, textos ou planos de aula). \
 • Ao menos 100 acessos na primeira semana após o lançamento. \
 • 80% dos usuários de teste avaliam a plataforma como “boa” ou “excelente” em pesquisa de satisfação. \
