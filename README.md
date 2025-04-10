@@ -23,16 +23,11 @@
 > DESCRIÇÃO DO PRODUTO: Uma versão inicial e funcional do ambiente digital, com foco em apoiar educadores na aplicação da Lei 11.645/08. Esta primeira versão contará com um acervo de materiais didáticos (textos, vídeos e planos de aula), um calendário cultural interativo com datas relevantes às culturas afro-brasileira e indígena, além de uma seção com metodologias pedagógicas básicas. O design será simples e acessível, priorizando a navegação intuitiva, com poucos cliques e a responsividade para diferentes dispositivos.
 > PRINCIPAIS ENTREGAS: \
 • Página inicial da plataforma com identidade visual e objetivo do projeto. \
-
 • Biblioteca com materiais didáticos disponíveis para download. \
-
 • Calendário cultural com datas relacionadas às culturas afro-brasileira e indígena. \
-
 • Planos de aula organizados por faixa etária e/ou disciplina. \
-
 • Seção de metodologias de ensino com noções introdutórias sobre práticas pedagógicas antirracistas. \
-
-• Espaço para contato dos usuários com desenvolvedores. \
+• Espaço para contato dos usuários com desenvolvedores. 
 
 > CRITÉRIOS DE ACEITE: 
 > MATRIZ DE RISCOS:
