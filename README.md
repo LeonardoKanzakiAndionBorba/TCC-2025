@@ -44,15 +44,5 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 \
 > MATRIZ DE RISCOS: 
 
-## Design de Software
->
-
-## Organização do Projeto
->
-
-## Metodologia e Desenvolvimento
-
-
-
 
 
