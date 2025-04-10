@@ -20,7 +20,7 @@
 > Apoio à implementação da Lei 11.645/08, promovendo o ensino da história e cultura afro-brasileira e indígena no ensino fundamental, médio e graduação. Ela busca facilitar o acesso a materiais e práticas pedagógicas que valorizem a diversidade, contribuindo para uma educação mais inclusiva, representativa e antirracista.
 
 ## Escopo do Produto
-> DESCRIÇÃO DO PRODUTO: Uma versão inicial e funcional do ambiente digital, com foco em apoiar educadores na aplicação da Lei 11.645/08. Esta primeira versão contará com um acervo de materiais didáticos (textos, vídeos e planos de aula), um calendário cultural interativo com datas relevantes às culturas afro-brasileira e indígena, além de uma seção com metodologias pedagógicas básicas. O design será simples e acessível, priorizando a navegação intuitiva, com poucos cliques e a responsividade para diferentes dispositivos. \
+> DESCRIÇÃO DO PRODUTO: Uma versão inicial e funcional do ambiente digital, com foco em apoiar educadores na aplicação da Lei 11.645/08. Esta primeira versão contará com um acervo de materiais didáticos (textos, vídeos e planos de aula), um calendário cultural interativo com datas relevantes às culturas afro-brasileira e indígena, além de uma seção com metodologias pedagógicas básicas. O design será simples e acessível, priorizando a navegação intuitiva, com poucos cliques e a responsividade para diferentes dispositivos. \\
 > PRINCIPAIS ENTREGAS: \
 • Página inicial da plataforma com identidade visual e objetivo do projeto. \
 • Biblioteca com materiais didáticos disponíveis para download. \
