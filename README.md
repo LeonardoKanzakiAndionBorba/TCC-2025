@@ -44,7 +44,9 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 \
 > MATRIZ DE RISCOS:\
 > \
-> Link Quant-UX:https://app.quant-ux.com/#/test.html?h=a2aa10at5IdcOWNhyO9VJHiVlEtSeLfyBRxYycArfbaTd2FN8Lm4xQY4OcPW&ln=en
+> Link Quant-UX:https://app.quant-ux.com/#/test.html?h=a2aa10at5IdcOWNhyO9VJHiVlEtSeLfyBRxYycArfbaTd2FN8Lm4xQY4OcPW&ln=en \
+> \
+> Link Quadro de Tarefas Trello:https://trello.com/invite/b/683640e317f39d687edd9cf2/ATTIcb7b7cec3172ebe4908a419c86178a621F901EB6/quadro-de-tarefas-tcc
 
 
 
