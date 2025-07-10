@@ -35,7 +35,7 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 • Seção de metodologias de ensino com noções introdutórias sobre práticas pedagógicas antirracistas. \
 • Espaço para contato dos usuários com desenvolvedores. 
 
-> CRITÉRIOS DE ACEITE \
+> CRITÉRIOS DE ACEITE: \
 > Qualitativos:
 A plataforma deve ser estável, com navegação intuitiva e responsiva em diversos dispositivos. \
 Os conteúdos devem ser apropriados, utilizando uma linguagem acessível e uma abordagem pedagógica que esteja em conformidade com a Lei 11.645/08. \
