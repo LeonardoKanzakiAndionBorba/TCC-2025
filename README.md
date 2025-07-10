@@ -11,10 +11,14 @@
 > 05/2024 (WEB) ⮕  Formalização: 04/2025 (TÓPICOS EM TECNOLOGIA DA INFORMAÇÃO)
 
 ## Descrição da Visão Geral do Projeto
-> A plataforma de educação étnico-racial será um recurso digital na temática afro-brasileira e indígena, promovendo a aplicação da Lei 11.645/08. Oferecerá materiais didáticos, metodologias de ensino, formação continuada e um calendário cultural interativo, com o objetivo de facilitar a inclusão desses conteúdos nas práticas pedagógicas e ampliar o conhecimento sobre a diversidade cultural brasileira.
+> O projeto Info Cultura tem como objetivo desenvolver uma plataforma digital interativa que centraliza informações sobre datas comemorativas, eventos e projetos dos Núcleos de Estudos Afro-Brasileiros e Indígenas (NEABIs) do Instituto Federal do Paraná (IFPR). A iniciativa busca promover a educação antirracista e valorizar as culturas afro-brasileiras e indígenas, contribuindo para a implementação da Lei nº 11.645/2008, que torna obrigatório o estudo da história e cultura africana, afro-brasileira e indígena nas escolas.
 
 ## Público Alvo
-> Direcionada a professores e pessoas interessadas na temática, oferecendo conteúdos, materiais de aula e metodologias que auxiliem na abordagem da cultura afro-brasileira e indígena em contextos educacionais.
+> Estudantes do IFPR e de outras instituições de ensino.
+Docentes e técnicos administrativos dos campi do IFPR.
+Membros dos Núcleos de Estudos Afro-Brasileiros e Indígenas (NEABIs).
+Comunidades externas interessadas em educação e cultura afro-brasileira e indígena.
+Pesquisadores e educadores que atuam na área de relações étnico-raciais.
 
 ## Objetivo do Projeto
 > Apoio à implementação da Lei 11.645/08, promovendo o ensino da história e cultura afro-brasileira e indígena no ensino fundamental, médio e graduação. Ela busca facilitar o acesso a materiais e práticas pedagógicas que valorizem a diversidade, contribuindo para uma educação mais inclusiva, representativa e antirracista.
