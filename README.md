@@ -35,16 +35,17 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 • Seção de metodologias de ensino com noções introdutórias sobre práticas pedagógicas antirracistas. \
 • Espaço para contato dos usuários com desenvolvedores. 
 
-> CRITÉRIOS DE ACEITE: \
-> Qualitativos: \
-• Plataforma estável, de fácil navegação e responsiva. \
-• Conteúdos adequados, com linguagem acessível e abordagem pedagógica alinhada à proposta da Lei 11.645/08. \
-• Layout visual claro, coerente com a temática e com foco em acessibilidade. \
-> Quantitativos: \
-• Disponibilização de conteúdos educativos (vídeos, textos ou planos de aula). \
-• Ao menos 100 acessos na primeira semana após o lançamento. \
-• 80% dos usuários de teste avaliam a plataforma como “boa” ou “excelente” em pesquisa de satisfação. \
-• Redução de dúvidas recorrentes dos professores em relação à temática, identificada por meio de enquetes ou fóruns. \
+> CRITÉRIOS DE ACEITE \
+> Qualitativos:
+A plataforma deve ser estável, com navegação intuitiva e responsiva em diversos dispositivos. \
+Os conteúdos devem ser apropriados, utilizando uma linguagem acessível e uma abordagem pedagógica que esteja em conformidade com a Lei 11.645/08. \
+O layout visual deve ser claro e coerente com a temática, priorizando a acessibilidade para todos os usuários. \
+\
+> Quantitativos:
+A plataforma deve disponibilizar conteúdos educativos, incluindo vídeos, textos e planos de aula. \
+É esperado que a plataforma tenha pelo menos 100 acessos na primeira semana após o lançamento. \
+Ao menos 80% dos usuários de teste devem classificar a plataforma como “boa” ou “excelente” em uma pesquisa de satisfação. \
+Deve ser observada uma redução nas dúvidas recorrentes dos professores sobre a temática, medida por meio de enquetes ou fóruns. \
 \
 > MATRIZ DE RISCOS:\
 > \
