@@ -29,11 +29,8 @@ Uma versão inicial e funcional do ambiente digital, com foco em apoiar educador
 \
 > PRINCIPAIS ENTREGAS: \
 • Página inicial da plataforma com identidade visual e objetivo do projeto. \
-• Biblioteca com materiais didáticos disponíveis para download. \
 • Calendário cultural com datas relacionadas às culturas afro-brasileira e indígena. \
-• Planos de aula organizados por faixa etária e/ou disciplina. \
-• Seção de metodologias de ensino com noções introdutórias sobre práticas pedagógicas antirracistas. \
-• Espaço para contato dos usuários com desenvolvedores. 
+• Calendário de divulgação dos eventos promovidos pelos NEABIs. 
 
 > CRITÉRIOS DE ACEITE: \
 > Qualitativos:
@@ -42,7 +39,7 @@ Os conteúdos devem ser apropriados, utilizando uma linguagem acessível e uma a
 O layout visual deve ser claro e coerente com a temática, priorizando a acessibilidade para todos os usuários. \
 \
 > Quantitativos:
-A plataforma deve disponibilizar conteúdos educativos, incluindo vídeos, textos e planos de aula. \
+A plataforma deve disponibilizar um calendario de divulgação de eventos e das datas comemorativas \
 É esperado que a plataforma tenha pelo menos 100 acessos na primeira semana após o lançamento. \
 Ao menos 80% dos usuários de teste devem classificar a plataforma como “boa” ou “excelente” em uma pesquisa de satisfação. \
 Deve ser observada uma redução nas dúvidas recorrentes dos professores sobre a temática, medida por meio de enquetes ou fóruns. \
