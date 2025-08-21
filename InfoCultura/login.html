@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Info Cultura</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body class="d-flex flex-column">
+    <main class="flex-shrink-0">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container px-5">
+                <a class="navbar-brand" href="index.html">Info Cultura</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation"><span
+                        class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="calendario.html">Calendário Cultural</a></li>
+                        <li class="nav-item"><a class="nav-link" href="favoritos.html">Favoritos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="quemsomos.html">Quem Somos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="login.html">Login</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Login Form -->
+        <div class="bg-[#e89516] min-h-screen flex items-center justify-center p-4">
+            <div class="w-full max-w-4xl bg-white rounded-2xl shadow-xl overflow-hidden">
+                <div class="grid md:grid-cols-2">
+                    <!-- Left Side - Illustration -->
+                    <div class="hidden md:block bg-[#e6ae6c] p-8 text-gray-800">
+                        <div class="flex flex-col h-full justify-center">
+                            <h2 class="text-[#6f390d] font-bold mb-4">Bem-vindo ao nosso sistema</h2>
+                            <p class="text-[#6f390d] mb-6">Gerencie seus recursos ou explore nosso conteúdo como
+                                visitante.</p>
+
+                            <div class="space-y-4">
+                                <div class="flex items-start">
+                                    <div class="bg-white text-[#6f390d] rounded-full p-2 mr-4">
+                                        <i class="fas fa-users-cog text-xl"></i>
+                                    </div>
+                                    <div>
+                                        <h3 class="text-[#6f390d] font-bold">Área do Administrador</h3>
+                                        <p class="text-sm text-[#6f390d]">Exclusivo para coordenadores do NEABI</p>
+                                    </div>
+                                </div>
+                                <div class="flex items-start">
+                                    <div class="bg-white text-[#6f390d] rounded-full p-2 mr-4">
+                                        <i class="fas fa-user-friends text-xl"></i>
+                                    </div>
+                                    <div>
+                                        <h3 class="text-[#6f390d] font-bold">Acesso Visitante</h3>
+                                        <p class="text-sm text-[#6f390d]">Explore nosso conteúdo público</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Side - Form -->
+                    <div class="p-8 md:p-120">
+                        <div class="flex justify-center mb-6">
+                            <h1 class="text-3xl font-bold text-[#6f390d]">
+                                <i class="fas fa-unlock-alt text-[#6f390d] mr-2"></i> Acesso ao Sistema
+                            </h1>
+                        </div>
+
+                        <!-- Switch between admin and visitor -->
+                        <div class="flex justify-center mb-8">
+                            <div class="bg-gray-100 p-1 rounded-full flex">
+                                <button id="visitor-btn"
+                                    class="px-6 py-2 rounded-full font-medium card-switch card-active hover-effect">
+                                    <i class="fas fa-user mr-2"></i> Visitante
+                                </button>
+                                <button id="admin-btn"
+                                    class="px-6 py-2 rounded-full font-medium text-gray-500 card-switch card-inactive hover-effect">
+                                    <i class="fas fa-user-shield mr-2"></i> Administrador
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Visitor Form (Default) -->
+                        <div id="visitor-form" class="space-y-4">
+                            <div>
+                                <label for="visitor-name" class="block text-sm font-medium text-gray-700 mb-1">Nome ou
+                                    Apelido</label>
+                                <input type="text" id="visitor-name"
+                                    class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-[#e6ae6c] focus:border-[#e6ae6c] outline-none transition"
+                                    placeholder="Digite seu nome ou apelido">
+                            </div>
+                            <button id="visitor-login-btn"
+                                class="w-full bg-[#6f390d] text-white py-3 rounded-lg font-medium hover:bg-[#a75c1e] focus:outline-none focus:ring-2 focus:ring-[#e6ae6c] focus:ring-offset-2 transition-all duration-300 hover:shadow-md">
+                                <i class="fas fa-sign-in-alt mr-2"></i> Entrar como Visitante
+                            </button>
+                            <div class="text-center text-sm text-gray-500 mt-2">
+                                <p>Ao continuar, você concorda com nossos <a href="#"
+                                        class="text-[#6f390d] hover:underline">Termos de Uso</a>.</p>
+                            </div>
+                        </div>
+
+                        <!-- Admin Form (Hidden by default) -->
+                        <div id="admin-form" class="space-y-4 hidden">
+                            <div>
+                                <label for="admin-email" class="block text-sm font-medium text-gray-700 mb-1">E-mail
+                                    Administrativo</label>
+                                <input type="email" id="admin-email"
+                                    class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-[#e6ae6c] focus:border-[#e6ae6c] outline-none transition"
+                                    placeholder="Digite seu e-mail admin">
+                            </div>
+                            <div>
+                                <label for="admin-password"
+                                    class="block text-sm font-medium text-gray-700 mb-1">Senha</label>
+                                <div class="relative">
+                                    <input type="password" id="admin-password"
+                                        class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-[#e6ae6c] focus:border-[#e6ae6c] outline-none transition pr-10"
+                                        placeholder="Digite sua senha">
+                                    <button class="absolute right-3 top-3 text-gray-400 hover:text-gray-600"
+                                        onclick="togglePassword('admin-password')">
+                                        <i class="far fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <div class="flex items-center">
+                                    <input id="remember-me" type="checkbox"
+                                        class="h-4 w-4 text-[#a75c1e] focus:ring-[#a75c1e] border-gray-300 rounded">
+                                    <label for="remember-me" class="ml-2 block text-sm text-gray-700">Manter-me
+                                        conectado</label>
+                                </div>  
+                                <div>
+                                    <a href="#" class="text-sm text-[#6f390d] hover:underline">Esqueceu sua senha?</a>
+                                </div>
+                            </div>
+                            <button id="admin-login-btn"
+                                class="w-full bg-[#6f390d] text-white py-3 rounded-lg font-medium hover:bg-[#a75c1e] focus:outline-none focus:ring-2 focus:ring-[#e6ae6c] focus:ring-offset-2 transition-all duration-300 hover:shadow-md">
+                                <i class="fas fa-sign-in-alt mr-2"></i> Entrar como Administrador
+                            </button>
+                        </div>
+
+                        <div class="text-center mt-6">
+                            <p class="text-sm text-gray-500">Não tem uma conta? <a href="#"
+                                    class="text-[#6f390d] font-medium hover:underline">Solicitar acesso</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+    </main>
+
+    <!-- Footer-->
+    <footer class="bg-dark py-4 mt-auto">
+        <div class="container px-5">
+            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                <div class="col-auto">
+                    <div class="small m-0 text-white">Copyright &copy; InfoCultura 2025</div>
+                </div>
+                <div class="col-auto">
+                    <a class="link-light small" href="index.html">Início</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="calendario.html">Calendário</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="quemsomos.html">Quem Somos</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="login.html">Login</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+        // Toggle between visitor and admin forms VERDES TODOS BUGADOOOOOOOOOOSSS
+        document.getElementById('visitor-btn').addEventListener('click', function () {
+            document.getElementById('visitor-btn').classList.remove('text-gray-500', 'card-inactive');
+            document.getElementById('visitor-btn').classList.add('text-white', 'bg-[#6f390d]', 'card-active');
+            document.getElementById('admin-btn').classList.add('text-gray-500', 'card-inactive');
+            document.getElementById('admin-btn').classList.remove('text-white', 'bg-[#6f390d]', 'card-active');
+            document.getElementById('visitor-form').classList.remove('hidden');
+            document.getElementById('admin-form').classList.add('hidden');
+        });
+
+        document.getElementById('admin-btn').addEventListener('click', function () {
+            document.getElementById('admin-btn').classList.remove('text-gray-500', 'card-inactive');
+            document.getElementById('admin-btn').classList.add('text-white', 'bg-[#6f390d]', 'card-active');
+            document.getElementById('visitor-btn').classList.add('text-gray-500', 'card-inactive');
+            document.getElementById('visitor-btn').classList.remove('text-white', 'bg-[#6f390d]', 'card-active');
+            document.getElementById('admin-form').classList.remove('hidden');
+            document.getElementById('visitor-form').classList.add('hidden');
+        });
+
+        // Toggle password visibility
+        function togglePassword(id) {
+            const passwordField = document.getElementById(id);
+            const icon = passwordField.nextElementSibling.querySelector('i');
+            if (passwordField.type === 'password') {
+                passwordField.type = 'text';
+                icon.classList.remove('fa-eye');
+                icon.classList.add('fa-eye-slash');
+            } else {
+                passwordField.type = 'password';
+                icon.classList.remove('fa-eye-slash');
+                icon.classList.add('fa-eye');
+            }
+        }
+
+        // Login button actions
+        document.getElementById('visitor-login-btn').addEventListener('click', function () {
+            const name = document.getElementById('visitor-name').value;
+            if (!name) {
+                alert('Por favor, digite seu nome ou apelido para continuar.');
+                return;
+            }
+            alert(`Bem-vindo, ${name}! Você entrou como visitante. Redirecionando...`);
+            // Aqui você adicionaria a lógica de redirecionamento
+        });
+
+        document.getElementById('admin-login-btn').addEventListener('click', function () {
+            const email = document.getElementById('admin-email').value;
+            const password = document.getElementById('admin-password').value;
+
+            if (!email || !password) {
+                alert('Por favor, preencha todos os campos.');
+                return;
+            }
+
+            // Validação simples de email
+            if (!email.includes('@') || !email.includes('.')) {
+                alert('Por favor, digite um e-mail válido.');
+                return;
+            }
+
+            // Normalmente você faria uma requisição para o servidor aqui
+            alert(`Autenticação em andamento para ${email}. Redirecionando para o painel de administração...`);
+        });
+
+        // Animate cards on hover
+        const cards = document.querySelectorAll('.hover-effect');
+        cards.forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.style.transform = 'scale(1.03)';
+            });
+            card.addEventListener('mouseleave', () => {
+                card.style.transform = 'scale(1)';
+            });
+        });
+    </script>
+    <style>
+        body {
+            background-color: #6f390d;
+        }
+
+        .card-switch {
+            transition: all 0.3s ease;
+        }
+
+        .card-active {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        .card-inactive {
+            opacity: 0.7;
+        }
+
+        .hover-effect:hover {
+            transform: scale(0.5);
+            transition: transform 0.3s ease;
+        }
+    </style>
+
+</body>
+
+</html>
